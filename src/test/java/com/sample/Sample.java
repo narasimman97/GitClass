@@ -14,5 +14,16 @@ public class Sample {
 		System.out.println("japan");
 
 	}
-	
+	private void newIndia() {
+		System.out.println("japan");
+
+	}
+	private void newAustralia() {
+		System.out.println("japan");
+
+	}
+	private void newjapan() {
+		// TODO Auto-generated method stub
+
+	}
 }
